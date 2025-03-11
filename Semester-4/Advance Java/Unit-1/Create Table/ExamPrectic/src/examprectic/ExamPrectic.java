@@ -2,33 +2,31 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package create.table;
+package examprectic;
 import java.sql.*;
+
 /**
  *
  * @author LENOV
  */
-public class CreateTable {
+public class ExamPrectic {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        try {
+        
+        try{
             Class.forName("com.mysql.jdbc.Driver");
-            Connection con = DriverManager.getConnection("jdbc:mysql:///java","root","");
-            Statement st =con.createStatement();
-            String str ="create table first ("
-                    + "name varchar(15)"
-                    + "rollno number)";
-            st.executeUpdate(str);
+            Connection con  = DriverManager.getConnection("jdbc:mysql:///java","root","");
+            Statement st = con.createStatement();
+            String qry = "create table exam(id int,name varchar(12))";
+            st.executeUpdate(qry);
             System.out.println("Table Created...");
             
-        } catch (Exception e) {
+        }catch(Exception e){
             System.out.println("Error : "+e);
         }
     }
     
 }
-;
