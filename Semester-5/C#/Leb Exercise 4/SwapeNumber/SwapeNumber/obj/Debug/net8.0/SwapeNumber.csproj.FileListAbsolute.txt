@@ -1,0 +1,14 @@
+D:\Study\Sem - 5\C#\SwapeNumber\SwapeNumber\bin\Debug\net8.0\SwapeNumber.exe
+D:\Study\Sem - 5\C#\SwapeNumber\SwapeNumber\bin\Debug\net8.0\SwapeNumber.deps.json
+D:\Study\Sem - 5\C#\SwapeNumber\SwapeNumber\bin\Debug\net8.0\SwapeNumber.runtimeconfig.json
+D:\Study\Sem - 5\C#\SwapeNumber\SwapeNumber\bin\Debug\net8.0\SwapeNumber.dll
+D:\Study\Sem - 5\C#\SwapeNumber\SwapeNumber\bin\Debug\net8.0\SwapeNumber.pdb
+D:\Study\Sem - 5\C#\SwapeNumber\SwapeNumber\obj\Debug\net8.0\SwapeNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Sem - 5\C#\SwapeNumber\SwapeNumber\obj\Debug\net8.0\SwapeNumber.AssemblyInfoInputs.cache
+D:\Study\Sem - 5\C#\SwapeNumber\SwapeNumber\obj\Debug\net8.0\SwapeNumber.AssemblyInfo.cs
+D:\Study\Sem - 5\C#\SwapeNumber\SwapeNumber\obj\Debug\net8.0\SwapeNumber.csproj.CoreCompileInputs.cache
+D:\Study\Sem - 5\C#\SwapeNumber\SwapeNumber\obj\Debug\net8.0\SwapeNumber.dll
+D:\Study\Sem - 5\C#\SwapeNumber\SwapeNumber\obj\Debug\net8.0\refint\SwapeNumber.dll
+D:\Study\Sem - 5\C#\SwapeNumber\SwapeNumber\obj\Debug\net8.0\SwapeNumber.pdb
+D:\Study\Sem - 5\C#\SwapeNumber\SwapeNumber\obj\Debug\net8.0\SwapeNumber.genruntimeconfig.cache
+D:\Study\Sem - 5\C#\SwapeNumber\SwapeNumber\obj\Debug\net8.0\ref\SwapeNumber.dll
