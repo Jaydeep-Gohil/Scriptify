@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\Scriptify\\Semester-5\\C#\\Leb Exercise 4\\SwapeNumber\\SwapeNumber\\SwapeNumber.csproj": {}
+    "D:\\Study\\Sem - 5\\C#\\FirstProject\\FirstProject\\FirstProject.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\Scriptify\\Semester-5\\C#\\Leb Exercise 4\\SwapeNumber\\SwapeNumber\\SwapeNumber.csproj": {
+    "D:\\Study\\Sem - 5\\C#\\FirstProject\\FirstProject\\FirstProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\Scriptify\\Semester-5\\C#\\Leb Exercise 4\\SwapeNumber\\SwapeNumber\\SwapeNumber.csproj",
-        "projectName": "SwapeNumber",
-        "projectPath": "D:\\GitHub\\Scriptify\\Semester-5\\C#\\Leb Exercise 4\\SwapeNumber\\SwapeNumber\\SwapeNumber.csproj",
+        "projectUniqueName": "D:\\Study\\Sem - 5\\C#\\FirstProject\\FirstProject\\FirstProject.csproj",
+        "projectName": "FirstProject",
+        "projectPath": "D:\\Study\\Sem - 5\\C#\\FirstProject\\FirstProject\\FirstProject.csproj",
         "packagesPath": "C:\\Users\\LENOV\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\Scriptify\\Semester-5\\C#\\Leb Exercise 4\\SwapeNumber\\SwapeNumber\\obj\\",
+        "outputPath": "D:\\Study\\Sem - 5\\C#\\FirstProject\\FirstProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net8.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
             "projectReferences": {}
           }
         },
@@ -47,8 +47,8 @@
         "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
           "imports": [
             "net461",
             "net462",
@@ -63,9 +63,12 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

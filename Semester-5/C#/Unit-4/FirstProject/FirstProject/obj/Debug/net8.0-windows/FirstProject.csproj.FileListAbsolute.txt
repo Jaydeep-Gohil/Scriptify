@@ -1,0 +1,16 @@
+D:\Study\Sem - 5\C#\FirstProject\FirstProject\bin\Debug\net8.0-windows\FirstProject.exe
+D:\Study\Sem - 5\C#\FirstProject\FirstProject\bin\Debug\net8.0-windows\FirstProject.deps.json
+D:\Study\Sem - 5\C#\FirstProject\FirstProject\bin\Debug\net8.0-windows\FirstProject.runtimeconfig.json
+D:\Study\Sem - 5\C#\FirstProject\FirstProject\bin\Debug\net8.0-windows\FirstProject.dll
+D:\Study\Sem - 5\C#\FirstProject\FirstProject\bin\Debug\net8.0-windows\FirstProject.pdb
+D:\Study\Sem - 5\C#\FirstProject\FirstProject\obj\Debug\net8.0-windows\FirstProject.Form1.resources
+D:\Study\Sem - 5\C#\FirstProject\FirstProject\obj\Debug\net8.0-windows\FirstProject.csproj.GenerateResource.cache
+D:\Study\Sem - 5\C#\FirstProject\FirstProject\obj\Debug\net8.0-windows\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Sem - 5\C#\FirstProject\FirstProject\obj\Debug\net8.0-windows\FirstProject.AssemblyInfoInputs.cache
+D:\Study\Sem - 5\C#\FirstProject\FirstProject\obj\Debug\net8.0-windows\FirstProject.AssemblyInfo.cs
+D:\Study\Sem - 5\C#\FirstProject\FirstProject\obj\Debug\net8.0-windows\FirstProject.csproj.CoreCompileInputs.cache
+D:\Study\Sem - 5\C#\FirstProject\FirstProject\obj\Debug\net8.0-windows\FirstProject.dll
+D:\Study\Sem - 5\C#\FirstProject\FirstProject\obj\Debug\net8.0-windows\refint\FirstProject.dll
+D:\Study\Sem - 5\C#\FirstProject\FirstProject\obj\Debug\net8.0-windows\FirstProject.pdb
+D:\Study\Sem - 5\C#\FirstProject\FirstProject\obj\Debug\net8.0-windows\FirstProject.genruntimeconfig.cache
+D:\Study\Sem - 5\C#\FirstProject\FirstProject\obj\Debug\net8.0-windows\ref\FirstProject.dll
