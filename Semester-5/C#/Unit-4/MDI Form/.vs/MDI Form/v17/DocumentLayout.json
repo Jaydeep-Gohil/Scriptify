@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Sem - 5\\C#\\MDI Form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B34C2C00-ADFE-4127-91C4-000955DAEC36}|MDI Form\\MDI Form.csproj|d:\\study\\sem - 5\\c#\\mdi form\\mdi form\\listboxcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34C2C00-ADFE-4127-91C4-000955DAEC36}|MDI Form\\MDI Form.csproj|solutionrelative:mdi form\\listboxcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34C2C00-ADFE-4127-91C4-000955DAEC36}|MDI Form\\MDI Form.csproj|d:\\study\\sem - 5\\c#\\mdi form\\mdi form\\listboxcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B34C2C00-ADFE-4127-91C4-000955DAEC36}|MDI Form\\MDI Form.csproj|solutionrelative:mdi form\\listboxcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34C2C00-ADFE-4127-91C4-000955DAEC36}|MDI Form\\MDI Form.csproj|d:\\study\\sem - 5\\c#\\mdi form\\mdi form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34C2C00-ADFE-4127-91C4-000955DAEC36}|MDI Form\\MDI Form.csproj|solutionrelative:mdi form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34C2C00-ADFE-4127-91C4-000955DAEC36}|MDI Form\\MDI Form.csproj|d:\\study\\sem - 5\\c#\\mdi form\\mdi form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B34C2C00-ADFE-4127-91C4-000955DAEC36}|MDI Form\\MDI Form.csproj|solutionrelative:mdi form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34C2C00-ADFE-4127-91C4-000955DAEC36}|MDI Form\\MDI Form.csproj|d:\\study\\sem - 5\\c#\\mdi form\\mdi form\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B34C2C00-ADFE-4127-91C4-000955DAEC36}|MDI Form\\MDI Form.csproj|solutionrelative:mdi form\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34C2C00-ADFE-4127-91C4-000955DAEC36}|MDI Form\\MDI Form.csproj|d:\\study\\sem - 5\\c#\\mdi form\\mdi form\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34C2C00-ADFE-4127-91C4-000955DAEC36}|MDI Form\\MDI Form.csproj|solutionrelative:mdi form\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34C2C00-ADFE-4127-91C4-000955DAEC36}|MDI Form\\MDI Form.csproj|d:\\study\\sem - 5\\c#\\mdi form\\mdi form\\hello_world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B34C2C00-ADFE-4127-91C4-000955DAEC36}|MDI Form\\MDI Form.csproj|solutionrelative:mdi form\\hello_world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34C2C00-ADFE-4127-91C4-000955DAEC36}|MDI Form\\MDI Form.csproj|d:\\study\\sem - 5\\c#\\mdi form\\mdi form\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34C2C00-ADFE-4127-91C4-000955DAEC36}|MDI Form\\MDI Form.csproj|solutionrelative:mdi form\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34C2C00-ADFE-4127-91C4-000955DAEC36}|MDI Form\\MDI Form.csproj|d:\\study\\sem - 5\\c#\\mdi form\\mdi form\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B34C2C00-ADFE-4127-91C4-000955DAEC36}|MDI Form\\MDI Form.csproj|solutionrelative:mdi form\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34C2C00-ADFE-4127-91C4-000955DAEC36}|MDI Form\\MDI Form.csproj|d:\\study\\sem - 5\\c#\\mdi form\\mdi form\\simple_interst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B34C2C00-ADFE-4127-91C4-000955DAEC36}|MDI Form\\MDI Form.csproj|solutionrelative:mdi form\\simple_interst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34C2C00-ADFE-4127-91C4-000955DAEC36}|MDI Form\\MDI Form.csproj|d:\\study\\sem - 5\\c#\\mdi form\\mdi form\\simple_interst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34C2C00-ADFE-4127-91C4-000955DAEC36}|MDI Form\\MDI Form.csproj|solutionrelative:mdi form\\simple_interst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B34C2C00-ADFE-4127-91C4-000955DAEC36}|MDI Form\\MDI Form.csproj|d:\\study\\sem - 5\\c#\\mdi form\\mdi form\\hello_world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B34C2C00-ADFE-4127-91C4-000955DAEC36}|MDI Form\\MDI Form.csproj|solutionrelative:mdi form\\hello_world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "listboxcs.cs",
+              "DocumentMoniker": "D:\\Study\\Sem - 5\\C#\\MDI Form\\MDI Form\\listboxcs.cs",
+              "RelativeDocumentMoniker": "MDI Form\\listboxcs.cs",
+              "ToolTip": "D:\\Study\\Sem - 5\\C#\\MDI Form\\MDI Form\\listboxcs.cs",
+              "RelativeToolTip": "MDI Form\\listboxcs.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADgvzoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T14:13:47.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "listboxcs.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\Sem - 5\\C#\\MDI Form\\MDI Form\\listboxcs.cs",
+              "RelativeDocumentMoniker": "MDI Form\\listboxcs.cs",
+              "ToolTip": "D:\\Study\\Sem - 5\\C#\\MDI Form\\MDI Form\\listboxcs.cs [Design]",
+              "RelativeToolTip": "MDI Form\\listboxcs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T14:07:16.618Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "factorial.cs",
+              "DocumentMoniker": "D:\\Study\\Sem - 5\\C#\\MDI Form\\MDI Form\\factorial.cs",
+              "RelativeDocumentMoniker": "MDI Form\\factorial.cs",
+              "ToolTip": "D:\\Study\\Sem - 5\\C#\\MDI Form\\MDI Form\\factorial.cs",
+              "RelativeToolTip": "MDI Form\\factorial.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA+wCIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T14:02:01.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "factorial.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\Sem - 5\\C#\\MDI Form\\MDI Form\\factorial.cs",
+              "RelativeDocumentMoniker": "MDI Form\\factorial.cs",
+              "ToolTip": "D:\\Study\\Sem - 5\\C#\\MDI Form\\MDI Form\\factorial.cs [Design]",
+              "RelativeToolTip": "MDI Form\\factorial.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T13:59:49.889Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "calculator.cs",
+              "DocumentMoniker": "D:\\Study\\Sem - 5\\C#\\MDI Form\\MDI Form\\calculator.cs",
+              "RelativeDocumentMoniker": "MDI Form\\calculator.cs",
+              "ToolTip": "D:\\Study\\Sem - 5\\C#\\MDI Form\\MDI Form\\calculator.cs",
+              "RelativeToolTip": "MDI Form\\calculator.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAvwDMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T13:56:56.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "hello_world.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\Sem - 5\\C#\\MDI Form\\MDI Form\\hello_world.cs",
+              "RelativeDocumentMoniker": "MDI Form\\hello_world.cs",
+              "ToolTip": "D:\\Study\\Sem - 5\\C#\\MDI Form\\MDI Form\\hello_world.cs [Design]",
+              "RelativeToolTip": "MDI Form\\hello_world.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T13:27:26.233Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Study\\Sem - 5\\C#\\MDI Form\\MDI Form\\Form1.cs",
+              "RelativeDocumentMoniker": "MDI Form\\Form1.cs",
+              "ToolTip": "D:\\Study\\Sem - 5\\C#\\MDI Form\\MDI Form\\Form1.cs",
+              "RelativeToolTip": "MDI Form\\Form1.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAArwDMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T13:25:53.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\Sem - 5\\C#\\MDI Form\\MDI Form\\Form1.cs",
+              "RelativeDocumentMoniker": "MDI Form\\Form1.cs",
+              "ToolTip": "D:\\Study\\Sem - 5\\C#\\MDI Form\\MDI Form\\Form1.cs [Design]",
+              "RelativeToolTip": "MDI Form\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T13:23:04.677Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "calculator.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\Sem - 5\\C#\\MDI Form\\MDI Form\\calculator.cs",
+              "RelativeDocumentMoniker": "MDI Form\\calculator.cs",
+              "ToolTip": "D:\\Study\\Sem - 5\\C#\\MDI Form\\MDI Form\\calculator.cs [Design]",
+              "RelativeToolTip": "MDI Form\\calculator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T13:51:38.769Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "simple_interst.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\Sem - 5\\C#\\MDI Form\\MDI Form\\simple_interst.cs",
+              "RelativeDocumentMoniker": "MDI Form\\simple_interst.cs",
+              "ToolTip": "D:\\Study\\Sem - 5\\C#\\MDI Form\\MDI Form\\simple_interst.cs [Design]",
+              "RelativeToolTip": "MDI Form\\simple_interst.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T13:39:44.948Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "simple_interst.cs",
+              "DocumentMoniker": "D:\\Study\\Sem - 5\\C#\\MDI Form\\MDI Form\\simple_interst.cs",
+              "RelativeDocumentMoniker": "MDI Form\\simple_interst.cs",
+              "ToolTip": "D:\\Study\\Sem - 5\\C#\\MDI Form\\MDI Form\\simple_interst.cs",
+              "RelativeToolTip": "MDI Form\\simple_interst.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T13:47:10.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "hello_world.cs",
+              "DocumentMoniker": "D:\\Study\\Sem - 5\\C#\\MDI Form\\MDI Form\\hello_world.cs",
+              "RelativeDocumentMoniker": "MDI Form\\hello_world.cs",
+              "ToolTip": "D:\\Study\\Sem - 5\\C#\\MDI Form\\MDI Form\\hello_world.cs",
+              "RelativeToolTip": "MDI Form\\hello_world.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAIA+wCQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T13:33:08.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

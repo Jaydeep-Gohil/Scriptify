@@ -1,0 +1,21 @@
+D:\Study\Sem - 5\C#\MDI Form\MDI Form\bin\Debug\net8.0-windows\MDI Form.exe
+D:\Study\Sem - 5\C#\MDI Form\MDI Form\bin\Debug\net8.0-windows\MDI Form.deps.json
+D:\Study\Sem - 5\C#\MDI Form\MDI Form\bin\Debug\net8.0-windows\MDI Form.runtimeconfig.json
+D:\Study\Sem - 5\C#\MDI Form\MDI Form\bin\Debug\net8.0-windows\MDI Form.dll
+D:\Study\Sem - 5\C#\MDI Form\MDI Form\bin\Debug\net8.0-windows\MDI Form.pdb
+D:\Study\Sem - 5\C#\MDI Form\MDI Form\obj\Debug\net8.0-windows\MDI_Form.mdi.resources
+D:\Study\Sem - 5\C#\MDI Form\MDI Form\obj\Debug\net8.0-windows\MDI_Form.hello_world.resources
+D:\Study\Sem - 5\C#\MDI Form\MDI Form\obj\Debug\net8.0-windows\MDI Form.csproj.GenerateResource.cache
+D:\Study\Sem - 5\C#\MDI Form\MDI Form\obj\Debug\net8.0-windows\MDI Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Sem - 5\C#\MDI Form\MDI Form\obj\Debug\net8.0-windows\MDI Form.AssemblyInfoInputs.cache
+D:\Study\Sem - 5\C#\MDI Form\MDI Form\obj\Debug\net8.0-windows\MDI Form.AssemblyInfo.cs
+D:\Study\Sem - 5\C#\MDI Form\MDI Form\obj\Debug\net8.0-windows\MDI Form.csproj.CoreCompileInputs.cache
+D:\Study\Sem - 5\C#\MDI Form\MDI Form\obj\Debug\net8.0-windows\MDI Form.dll
+D:\Study\Sem - 5\C#\MDI Form\MDI Form\obj\Debug\net8.0-windows\refint\MDI Form.dll
+D:\Study\Sem - 5\C#\MDI Form\MDI Form\obj\Debug\net8.0-windows\MDI Form.pdb
+D:\Study\Sem - 5\C#\MDI Form\MDI Form\obj\Debug\net8.0-windows\MDI Form.genruntimeconfig.cache
+D:\Study\Sem - 5\C#\MDI Form\MDI Form\obj\Debug\net8.0-windows\ref\MDI Form.dll
+D:\Study\Sem - 5\C#\MDI Form\MDI Form\obj\Debug\net8.0-windows\MDI_Form.simple_interst.resources
+D:\Study\Sem - 5\C#\MDI Form\MDI Form\obj\Debug\net8.0-windows\MDI_Form.calculator.resources
+D:\Study\Sem - 5\C#\MDI Form\MDI Form\obj\Debug\net8.0-windows\MDI_Form.factorial.resources
+D:\Study\Sem - 5\C#\MDI Form\MDI Form\obj\Debug\net8.0-windows\MDI_Form.listboxcs.resources
