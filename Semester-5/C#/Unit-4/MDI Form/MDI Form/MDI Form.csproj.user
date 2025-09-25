@@ -16,6 +16,9 @@
     <Compile Update="listboxcs.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="new_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="simple_interst.cs">
       <SubType>Form</SubType>
     </Compile>

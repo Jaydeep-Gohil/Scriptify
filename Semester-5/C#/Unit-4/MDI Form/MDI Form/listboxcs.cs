@@ -58,5 +58,29 @@ namespace MDI_Form
         {
             lstWife.Items.Remove(txtName.Text);
         }
+
+        private void l2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cmdShow_Click(object sender, EventArgs e)
+        {
+            string wives = "";
+            foreach (var item in lstWife.SelectedItems)
+            {
+                wives += item.ToString() + "  ";
+            }
+
+            // Show only the selected husband (ComboBox is single-select)
+            string husbands = "";
+            if (cmbHusband.SelectedItem != null)
+            {
+                husbands = "  |  " + cmbHusband.SelectedItem.ToString();
+            }
+
+            // Show result in label
+            l2.Text = wives + husbands;
+        }
     }
 }

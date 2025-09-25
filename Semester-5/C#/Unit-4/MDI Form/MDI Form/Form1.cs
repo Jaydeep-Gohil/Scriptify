@@ -51,5 +51,12 @@ namespace MDI_Form
             lb.MdiParent = this;
             lb.Show();
         }
+
+        private void formToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            new_form nf = new new_form();
+            nf.MdiParent = this;
+            nf.Show();
+        }
     }
 }

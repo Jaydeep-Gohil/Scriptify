@@ -39,6 +39,7 @@
             rdoWife = new RadioButton();
             rdoHus = new RadioButton();
             lbl3 = new Label();
+            l2 = new Label();
             groupBox1.SuspendLayout();
             SuspendLayout();
             // 
@@ -48,6 +49,7 @@
             lstWife.Items.AddRange(new object[] { "Sita", "Urmila", "Mandvi", "Shrutakiriti" });
             lstWife.Location = new Point(115, 72);
             lstWife.Name = "lstWife";
+            lstWife.SelectionMode = SelectionMode.MultiExtended;
             lstWife.Size = new Size(150, 104);
             lstWife.TabIndex = 0;
             lstWife.SelectedIndexChanged += listBox1_SelectedIndexChanged;
@@ -107,6 +109,7 @@
             cmdShow.TabIndex = 8;
             cmdShow.Text = "Show";
             cmdShow.UseVisualStyleBackColor = true;
+            cmdShow.Click += cmdShow_Click;
             // 
             // groupBox1
             // 
@@ -150,11 +153,22 @@
             lbl3.Size = new Size(759, 45);
             lbl3.TabIndex = 10;
             // 
+            // l2
+            // 
+            l2.AutoSize = true;
+            l2.Location = new Point(612, 196);
+            l2.Name = "l2";
+            l2.Size = new Size(60, 20);
+            l2.TabIndex = 11;
+            l2.Text = "Name : ";
+            l2.Click += l2_Click;
+            // 
             // listboxcs
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(800, 501);
+            Controls.Add(l2);
             Controls.Add(lbl3);
             Controls.Add(groupBox1);
             Controls.Add(cmdShow);
@@ -185,5 +199,6 @@
         private RadioButton rdoWife;
         private RadioButton rdoHus;
         private Label lbl3;
+        private Label l2;
     }
 }

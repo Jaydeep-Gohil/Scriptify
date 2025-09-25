@@ -19,3 +19,4 @@ D:\Study\Sem - 5\C#\MDI Form\MDI Form\obj\Debug\net8.0-windows\MDI_Form.simple_i
 D:\Study\Sem - 5\C#\MDI Form\MDI Form\obj\Debug\net8.0-windows\MDI_Form.calculator.resources
 D:\Study\Sem - 5\C#\MDI Form\MDI Form\obj\Debug\net8.0-windows\MDI_Form.factorial.resources
 D:\Study\Sem - 5\C#\MDI Form\MDI Form\obj\Debug\net8.0-windows\MDI_Form.listboxcs.resources
+D:\Study\Sem - 5\C#\MDI Form\MDI Form\obj\Debug\net8.0-windows\MDI_Form.new_form.resources

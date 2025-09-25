@@ -35,8 +35,9 @@
             calculatorToolStripMenuItem = new ToolStripMenuItem();
             factorialToolStripMenuItem = new ToolStripMenuItem();
             unit5ToolStripMenuItem = new ToolStripMenuItem();
-            exitToolStripMenuItem = new ToolStripMenuItem();
             listboxToolStripMenuItem = new ToolStripMenuItem();
+            exitToolStripMenuItem = new ToolStripMenuItem();
+            formToolStripMenuItem = new ToolStripMenuItem();
             menuStrip1.SuspendLayout();
             SuspendLayout();
             // 
@@ -52,7 +53,7 @@
             // 
             // unit4ToolStripMenuItem
             // 
-            unit4ToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { simpleHelloToolStripMenuItem, simpleInterstToolStripMenuItem, calculatorToolStripMenuItem, factorialToolStripMenuItem });
+            unit4ToolStripMenuItem.DropDownItems.AddRange(new ToolStripItem[] { simpleHelloToolStripMenuItem, simpleInterstToolStripMenuItem, calculatorToolStripMenuItem, factorialToolStripMenuItem, formToolStripMenuItem });
             unit4ToolStripMenuItem.Name = "unit4ToolStripMenuItem";
             unit4ToolStripMenuItem.Size = new Size(72, 24);
             unit4ToolStripMenuItem.Text = "Unit - 4";
@@ -93,6 +94,13 @@
             unit5ToolStripMenuItem.Text = "Unit - 5";
             unit5ToolStripMenuItem.Click += unit5ToolStripMenuItem_Click;
             // 
+            // listboxToolStripMenuItem
+            // 
+            listboxToolStripMenuItem.Name = "listboxToolStripMenuItem";
+            listboxToolStripMenuItem.Size = new Size(224, 26);
+            listboxToolStripMenuItem.Text = "Listbox";
+            listboxToolStripMenuItem.Click += listboxToolStripMenuItem_Click;
+            // 
             // exitToolStripMenuItem
             // 
             exitToolStripMenuItem.Name = "exitToolStripMenuItem";
@@ -100,12 +108,12 @@
             exitToolStripMenuItem.Text = "Exit";
             exitToolStripMenuItem.Click += exitToolStripMenuItem_Click;
             // 
-            // listboxToolStripMenuItem
+            // formToolStripMenuItem
             // 
-            listboxToolStripMenuItem.Name = "listboxToolStripMenuItem";
-            listboxToolStripMenuItem.Size = new Size(224, 26);
-            listboxToolStripMenuItem.Text = "Listbox";
-            listboxToolStripMenuItem.Click += listboxToolStripMenuItem_Click;
+            formToolStripMenuItem.Name = "formToolStripMenuItem";
+            formToolStripMenuItem.Size = new Size(224, 26);
+            formToolStripMenuItem.Text = "Form";
+            formToolStripMenuItem.Click += formToolStripMenuItem_Click;
             // 
             // mdi
             // 
@@ -135,5 +143,6 @@
         private ToolStripMenuItem calculatorToolStripMenuItem;
         private ToolStripMenuItem factorialToolStripMenuItem;
         private ToolStripMenuItem listboxToolStripMenuItem;
+        private ToolStripMenuItem formToolStripMenuItem;
     }
 }
